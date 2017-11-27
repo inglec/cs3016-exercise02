@@ -1,4 +1,4 @@
-{- butrfeld Andrew Butterfield -}
+{- Ciarán Ingle 15319981 -}
 module Ex02 where
 
 -- Datatypes -------------------------------------------------------------------
